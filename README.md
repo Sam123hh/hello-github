@@ -1,1 +1,1 @@
-# hello-github
+git init
